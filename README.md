@@ -60,12 +60,12 @@ This analysis was conducted using:
 - Years with >100 car listings
 - Aggregated queries using `GROUP BY`, `HAVING`, and `CASE WHEN`
 
-📌 Example:
-```sql
+## 📌 Example:
+```sql```
 SELECT fuel, COUNT(*) 
 FROM car_dekho 
 WHERE year = 2023 
-GROUP BY fuel;
+GROUP BY fuel; 
 
 ---
 
