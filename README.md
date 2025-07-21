@@ -1,6 +1,6 @@
 # 🚗 CarDekho Market Analysis – Trends & Patterns
 
-**📅 Project Duration:** September 2024  
+**📅 Project Duration:** November 2024  
 **🛠 Tools Used:** MySQL Workbench | SQL | Microsoft Excel | GitHub  
 
 ---
